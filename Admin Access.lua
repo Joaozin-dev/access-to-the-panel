@@ -1,5 +1,4 @@
 MateusBaima7 = "permanente"
 Joaozindev = "permanente"
-StewartJorge026 = "permanente"
 YCsPrtocPSq = "permanente"
 beranarodo_4 = "permanente"
