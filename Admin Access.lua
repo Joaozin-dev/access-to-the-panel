@@ -1,5 +1,5 @@
 MateusBaima7 = "permanente"
 Joaozindev = "permanente"
-beranarodo_4 = "2025-12-26"
+beranarodo_4 = "permanente"
 StewartJorge026 = "permanente"
 YCsPrtocPSq = "permanente"
