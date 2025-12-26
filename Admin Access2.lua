@@ -1,1 +1,2 @@
 Joaozindev = "permanente"
+wendellstop = "permanente"
