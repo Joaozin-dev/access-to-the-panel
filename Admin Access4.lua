@@ -4,7 +4,7 @@ return {
     },
 
     Admins = {
-        player098 = "2026-01-31",
+        omelhorbrookhaven = "2026-01-31",
         player456 = "permanente"
     }
 }
