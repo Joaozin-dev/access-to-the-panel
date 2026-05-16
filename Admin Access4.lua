@@ -1,9 +1,10 @@
 return {
     Dono = {
-        Joaozindev = true
+        Joaozindev = true,
+        NexusJose777 = true
     },
 
     Admins = {
-        Manox_Hub = true
+        Manox_Hub = "permanente"
     }
 }
